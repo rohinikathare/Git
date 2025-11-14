@@ -1,2 +1,8 @@
 Hello world
+<<<<<<< HEAD
 changes made in master branch
+=======
+changes made in feature branch
+>>>>>>> feature
+This line includes changes from both the
+branches
